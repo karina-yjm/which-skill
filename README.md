@@ -9,6 +9,11 @@
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-compatible-0a7ea4.svg)](https://agentskills.io/)
 [![skills.sh](https://img.shields.io/badge/skills.sh-install-black.svg)](https://skills.sh)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/hero.svg">
+  <img src="docs/assets/hero.svg" alt="which-skill matches intent, not keywords — quote-backed recommendations from installed skills" width="100%">
+</picture>
+
 ```text
 You:  "Is my page friendly to color-blind users?"
 
@@ -69,6 +74,11 @@ Full scan roots used by the skill: [references/scan-roots.md](references/scan-ro
 
 ## Try it
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/example.svg">
+  <img src="docs/assets/example.svg" alt="Example prompts in English and Chinese with quote-backed skill recommendations" width="100%">
+</picture>
+
 ```text
 which skill should I use — my landing page looks like every other AI template?
 帮我选 skill：网页对色盲友好吗？
@@ -90,6 +100,11 @@ Skill triggers are **keyword lists**. Same job, different words → miss:
 That's not one broken skill — it's how keyword triggers work. **which-skill** matches by **intent** against your **live** installed catalog.
 
 ## Three hard rules
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/rules.svg">
+  <img src="docs/assets/rules.svg" alt="Recommend-only, quote-backed, live catalog" width="100%">
+</picture>
 
 | Rule | Promise |
 |------|---------|
